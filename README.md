@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anilmarathe/DSA/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/anilmarathe/DSA/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
