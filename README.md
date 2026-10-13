@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anilmarathe/DSA/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anilmarathe/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1480-running-sum-of-1d-array](https://github.com/anilmarathe/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anilmarathe/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/anilmarathe/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
